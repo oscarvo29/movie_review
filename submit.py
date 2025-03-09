@@ -2,7 +2,7 @@ import requests
 import json
 
 # Define the URL of the API endpoint
-url = "http://10.129.205.188:5000/api/upload"
+url = "http://10.129.248.129:5000/api/upload"
 
 # Path to the model file you want to upload
 model_file_path = "movie_review_model.joblib"
